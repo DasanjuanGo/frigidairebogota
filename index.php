@@ -93,12 +93,12 @@
                     Atendemos a domicilio, con técnicos certificados y repuestos originales. ¿Tu lavadora no enciende,
                     no exprime o hace ruidos extraños? ¡Contáctanos ahora y recibe atención el mismo día!</p>
 
-                  <div class="down-buttons">
+                  <div class="down-buttons" >
                     <div class="main-blue-button-hover">
                       <a href="#contact">ASESOR</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i>+57 3228743703</a>
+                      <a href="tel:+57 3228743703"><i class="fa fa-phone"></i></a>
                     </div>
                   </div>
                 </div>
@@ -112,7 +112,7 @@
                       <a href="#services">ASESOR</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> +57 3228743703</a>
+                      <a href="tel: +57 3228743703"><i class="fa fa-phone"></i></a>
                     </div>
                   </div>
                 </div>
@@ -236,7 +236,7 @@
             <span>Marcas Aliadas</span>
             <p style="margin-top: -2%;">Trabajamos con marcas reconocidas como Whirlpool, Frigidaire, Samsung, LG y más, garantizando repuestos
               originales y servicio técnico especializado.</p>
-            <div class="row">
+            <div class="row" >
               <div class="col-lg-4">
                 <div class="fact-item">
                   <div class="count-area-content">

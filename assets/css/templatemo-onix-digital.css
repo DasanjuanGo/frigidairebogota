@@ -2286,6 +2286,10 @@ responsive
 }
 
 @media (min-width: 401px) and (max-width: 599px) {
+
+  .main-red-button-hover{
+    position: absolute;
+  }
   #about {
     margin-top: -90px;
   }
@@ -2306,8 +2310,13 @@ responsive
     flex-direction: row;
   }
   .col-lg-3{
-    width: 50%;
+    width: 45%;
   }
+    #about-item{
+    width: 100%;
+    text-align: center;
+  }
+  
 
     #item .down-buttons {
     width: 100%;

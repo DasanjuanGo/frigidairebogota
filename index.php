@@ -64,7 +64,7 @@
               <li><a href="#contact">CONTACTO</a></li>
               <li><a href="#contactar">REDES</a></li>
               <li>
-                <div class="main-red-button-hover"><a href="#contact">LLAMANOS</a></div>
+                <div class="main-red-button-hover"><a href="tel:+57 3228743703">LLAMANOS</a></div>
               </li>
             </ul>
             <a class='menu-trigger'>
@@ -87,7 +87,7 @@
             <div class="col-lg-8 align-self-center">
               <div class="owl-carousel owl-banner">
                 <div class="item header-text" id="item">
-                  <h6>SOPORTE EN LÍNEA <em>+57 3228743703</em></h6>
+                  <h6>SOPORTE EN LÍNEA a<em><a style ="color:white" href="tel: +57 3228743703">+57 3228743703</a></em></h6>
                   <h2 style="color: white; margin-top: -1%;">BIENVENIDOS A <span>FRIGIDAIRE BOGOTÁ</span> SERVICIO TÉCNICO PARA EL HOGAR.</h2>
                   <p style="  color: white; font-size: 20px; margin-top: -1%;">Especialistas en <strong>reparación de lavadoras Frigidaire</strong>.
                     Atendemos a domicilio, con técnicos certificados y repuestos originales. ¿Tu lavadora no enciende,
@@ -95,7 +95,7 @@
 
                   <div class="down-buttons" >
                     <div class="main-blue-button-hover">
-                      <a href="#contact">ASESOR</a>
+                      <a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor" target="_blank"">ASESOR</a>
                     </div>
                     <div class="call-button">
                       <a href="tel:+57 3228743703"><i class="fa fa-phone"></i></a>
@@ -103,13 +103,13 @@
                   </div>
                 </div>
                 <div class="item header-text" id="item">
-                  <h6>SOPORTE EN LÍNEA <em>+57 3228743703</em></h6>
+                  <h6>SOPORTE EN LÍNEA <em><a style ="color:white" href="tel: +57 3228743703">+57 3228743703</a></em></h6>
                   <h2 style="  color: white;">REPARACIÓN Y MANTENIMIENTO DE LAVADORAS Y NEVERAS<span> BOGOTÁ</span></h2>
                   <p style="  color: white;">DOMICILIO EN BOGOTÁ - COLOMBIA</p>
 
                   <div class="down-buttons">
                     <div class="main-blue-button-hover">
-                      <a href="#services">ASESOR</a>
+                      <a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor" target="_blank"">ASESOR</a>
                     </div>
                     <div class="call-button">
                       <a href="tel: +57 3228743703"><i class="fa fa-phone"></i></a>
@@ -153,7 +153,7 @@
                 <div class="mi-div-semitransparente">
                   ¿No centrifuga, no enciende, fuga de agua, error en el panel.?
                   <div class="main-blue-button-hover ">
-                    <a href="#"><i class="fas fa-phone"></i></a>
+                    <a href="tel: +57 3228743703"><i class="fas fa-phone"></i></a>
                   </div>
                 </div>
                 
@@ -167,7 +167,7 @@
                 <div class="mi-div-semitransparente">
                   ¿No centrifuga, no enciende, fuga de agua, error en el panel?
                   <div class="main-blue-button-hover ">
-                    <a href="#"><i class="fas fa-phone"></i></a>
+                    <a href="tel: +57 3228743703"><i class="fas fa-phone"></i></a>
                   </div>
                 </div>
                 
@@ -181,7 +181,7 @@
                 <div class="mi-div-semitransparente">
                   ¿Tu secadora no seca bien, no gira el tambor o genera exceso de calor?
                   <div class="main-blue-button-hover ">
-                    <a href="#"><i class="fas fa-phone"></i></a>
+                    <a href="tel: +57 3228743703"><i class="fas fa-phone"></i></a>
                   </div>
                 </div>
               </div>
@@ -194,7 +194,7 @@
                 <div class="mi-div-semitransparente">
                   Instalación segura y profesional de lavadoras, neveras y secadoras!.
                   <div class="main-blue-button-hover ">
-                    <a href="#"><i class="fas fa-phone"></i></a>
+                    <a href="tel: +57 3228743703"><i class="fas fa-phone"></i></a>
                   </div>
                 </div>
 
@@ -208,7 +208,7 @@
                 <div class="mi-div-semitransparente">
                   piezas originales en todas nuestras reparaciones para asegurar el rendimiento.
                   <div class="main-blue-button-hover ">
-                    <a href="#"><i class="fas fa-phone"></i></a>
+                    <a href="tel: +57 3228743703"><i class="fas fa-phone"></i></a>
                   </div>
                 </div>
               </div>
@@ -343,8 +343,8 @@
                 width="100%" height="360px" frameborder="0" style="border:0" allowfullscreen=""></iframe>
             </div>
             <div class="info">
-              <span><i class="fa fa-phone"></i> <a href="#">3228743703<br>3228743703</a></span>
-              <span><i class="fa fa-envelope"></i> <a href="#">lineablanca@frigidairebogota.com<br>soporte@frigidairebogota.com</a></span>
+              <span><i class="fa fa-phone"></i> <a href="tel: +57 3228743703">3228743703<br>3228743703</a></span>
+              <span><i class="fa fa-envelope"></i> <a href="tel: +57 3228743703">lineablanca@frigidairebogota.com<br>soporte@frigidairebogota.com</a></span>
             </div>
           </div>
         </div>
@@ -395,17 +395,17 @@
   <footer>
     <div class="container" id="contactar">
       <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-3" id="about-item">
           <div class="about footer-item">
             <div class="logo">
               <a href="#"><img src="assets/images/logo.png" alt="Onix Digital TemplateMo"></a>
             </div>
             <a href="#">soporte@frigidairebogota.com</a>
             <ul>
-              <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-              <li><a href="#"><i class="fas fa-phone"></i></a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor"><i class="fab fa-facebook"></i></a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor"><i class="fab fa-whatsapp"></i></a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor"><i class="fab fa-instagram"></i></a></li>
+              <li><a href="tel: +57 3228743703"><i class="fas fa-phone"></i></a></li>
             </ul>
           </div>
         </div>
@@ -413,10 +413,10 @@
           <div class="services footer-item">
             <h4>Servicios</h4>
             <ul>
-              <li><a href="#">Mantenimiento</a></li>
-              <li><a href="#">Reparación</a></li>
-              <li><a href="#">Instalación</a></li>
-              <li><a href="#">Repuestos</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor">Mantenimiento</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor">Reparación</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor">Instalación</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor">Repuestos</a></li>
             </ul>
           </div>
         </div>
@@ -424,14 +424,14 @@
           <div class="community footer-item">
             <h4>Redes Sociales</h4>
             <ul>
-              <li><a href="#"><i class="fab fa-facebook"></i> Facebook</a></li>
-              <li><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
-              <li><a href="#"><i class="fab fa-whatsapp"></i> Whatsapp</a></li>
-              <li><a href="#"><i class="fas fa-phone"></i> Llama ahora</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor"><i class="fab fa-facebook"></i> Facebook</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor"><i class="fab fa-instagram"></i> Instagram</a></li>
+              <li><a href="https://wa.me/573228743703?text=Hola%2C%20quiero%20más%20información%20por%20favor"><i class="fab fa-whatsapp"></i> Whatsapp</a></li>
+              <li><a href="tel: +57 3228743703"><i class="fas fa-phone"></i> Llama ahora</a></li>
             </ul>
           </div>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3" id="about-item">
           <div class="subscribe-newsletters footer-item">
             <h4>Subscribete Frigidaire Bogotá</h4>
             <p>Reparación y Mantenimiento - Domicilio en Bogotá¡</p>

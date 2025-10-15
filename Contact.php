@@ -7,7 +7,6 @@ $name    = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : 'No especi
 $email   = isset($_POST['email']) ? htmlspecialchars($_POST['email']) : 'No especificado';
 $message = isset($_POST['soporte']) ? htmlspecialchars($_POST['soporte']) : 'No especificado';
 
-
 // Armamos la tarjeta AdaptiveCard
 $cardData = [
     "type" => "message",

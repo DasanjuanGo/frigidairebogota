@@ -87,7 +87,7 @@
             <div class="col-lg-8 align-self-center">
               <div class="owl-carousel owl-banner">
                 <div class="item header-text" id="item">
-                  <h6>SOPORTE EN LÍNEA <em>+57 3116225793</em></h6>
+                  <h6>SOPORTE EN LÍNEA <em>+57 3228743703</em></h6>
                   <h2 style="color: white; margin-top: -1%;">BIENVENIDOS A <span>FRIGIDAIRE BOGOTÁ</span> SERVICIO TÉCNICO PARA EL HOGAR.</h2>
                   <p style="  color: white; font-size: 20px; margin-top: -1%;">Especialistas en <strong>reparación de lavadoras Frigidaire</strong>.
                     Atendemos a domicilio, con técnicos certificados y repuestos originales. ¿Tu lavadora no enciende,
@@ -98,12 +98,12 @@
                       <a href="#contact">ASESOR</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i>+57 3116225793</a>
+                      <a href="#"><i class="fa fa-phone"></i>+57 3228743703</a>
                     </div>
                   </div>
                 </div>
                 <div class="item header-text" id="item">
-                  <h6>SOPORTE EN LÍNEA <em>+57 3116225793</em></h6>
+                  <h6>SOPORTE EN LÍNEA <em>+57 3228743703</em></h6>
                   <h2 style="  color: white;">REPARACIÓN Y MANTENIMIENTO DE LAVADORAS Y NEVERAS<span> BOGOTÁ</span></h2>
                   <p style="  color: white;">DOMICILIO EN BOGOTÁ - COLOMBIA</p>
 
@@ -112,7 +112,7 @@
                       <a href="#services">ASESOR</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> +57 3116225793</a>
+                      <a href="#"><i class="fa fa-phone"></i> +57 3228743703</a>
                     </div>
                   </div>
                 </div>
@@ -329,76 +329,7 @@
       </div>
     </div>
   </div>
-<!--
-  <div id="services" class="our-services section" style="margin-top: -10px;">
-    <div class="services-right-dec">
-      <img src="assets/images/services-right-dec.png" style="border-radius: 100%;" alt="" ">
-    </div>
-    <div class=" container">
-      <div class="services-left-dec">
-        <img src="assets/images/services-left-dec.png" alt="">
-      </div>
-      <div class="row">
-        <div class="col-lg-6 offset-lg-3">
-          <div class="section-heading">
-            <h2>Nuestros<em> Servicios</em></h2>
-            <span>Nuestros servicios</span>
 
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="owl-carousel owl-services">
-            <div class="item">
-              <h4>Mantenimiento Lavadoras</h4>
-              <div class="icon" style="width: 50%;"><img src="assets/images/services/lavadoras.jpg" alt=""></div>
-              <p>No centrifuga, no enciende, fuga de agua, error en el panel.</p>
-              <div class="main-blue-button-hover" style="margin-top: 10%;">
-                <a href="#"><i class="fas fa-phone"></i></a>
-              </div>
-            </div>
-            <div class="item">
-              <h4>Mantenimiento Neveras </h4>
-              <div class="icon" style="width: 50%;"><img src="assets/images/services/neveras.jpg" alt=""></div>
-              <p>No enfría, hace mucho ruido, problemas con el motor o el termostato.</p>
-              <div class="main-blue-button-hover" style="margin-top: 10%;">
-                <a href="#"><i class="fas fa-phone"></i></a>
-              </div>
-            </div>
-            <div class="item">
-              <h4>Mantenimiento Secadoras</h4>
-              <div class="icon" style="width: 50%;"><img src="assets/images/services/secadora.jpg" alt=""></div>
-              <p>¿Tu secadora no seca bien, no gira el tambor o genera exceso de calor?</p>
-              <div class="main-blue-button-hover" style="margin-top: 10%;">
-                <a href="#"><i class="fas fa-phone"></i></a>
-              </div>
-            </div>
-            <div class="item">
-              <h4>Instalación de electrodomésticos</h4>
-              <div class="icon" style="width: 50%;"><img src="assets/images/services/electrodomesticos.png" alt="">
-              </div>
-              <p>instalación segura y profesional de lavadoras, neveras y secadoras. </p>
-              <div class="main-blue-button-hover" style="margin-top: 10%;">
-                <a href="#"><i class="fas fa-phone"></i></a>
-              </div>
-            </div>
-            <div class="item">
-              <h4>Cambio de repuestos originales</h4>
-              <div class="icon" style="width: 50%; margin-bottom: 10px;"><img
-                  src="assets/images/services/Accesorios.jpg" alt=""></div>
-              <p>piezas originales en todas nuestras reparaciones para asegurar el rendimiento</p>
-              <div class="main-blue-button-hover " style="margin-top: 10%;">
-                <a href="#"><i class="fas fa-phone"></i></a>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
--->
   <!-- ***** CONTACTO***** -->
   <div id="contact" class="contact-us section">
     <div class="container">
@@ -408,12 +339,12 @@
             <h2>¿Tienes alguna pregunta?<em>¡Contactanos!</em> </h2>
             <div id="map">
               <iframe
-                src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.969091293776!2d-74.072092!3d4.7109886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f851ee9cbe193%3A0xe8ff5b039b52aa29!2sAvenida%20Centenario%20Calle%2013%20%23108-85%2C%20Bogot%C3%A1!5e0!3m2!1ses!2sco!4v1698000000000"
                 width="100%" height="360px" frameborder="0" style="border:0" allowfullscreen=""></iframe>
             </div>
             <div class="info">
-              <span><i class="fa fa-phone"></i> <a href="#">3116225793<br>3116225793</a></span>
-              <span><i class="fa fa-envelope"></i> <a href="#">info@frigidairebogota.com<br>soporte@frigidairebogota.com</a></span>
+              <span><i class="fa fa-phone"></i> <a href="#">3228743703<br>3228743703</a></span>
+              <span><i class="fa fa-envelope"></i> <a href="#">lineablanca@frigidairebogota.com<br>soporte@frigidairebogota.com</a></span>
             </div>
           </div>
         </div>
@@ -504,7 +435,7 @@
           <div class="subscribe-newsletters footer-item">
             <h4>Subscribete Frigidaire Bogotá</h4>
             <p>Reparación y Mantenimiento - Domicilio en Bogotá¡</p>
-            <form action="#" method="get">
+            <form action="Contact.php" method="post">
               <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Tu Correo" required="">
               <button type="submit" id="form-submit" class="main-button "><i class="fa fa-paper-plane-o"></i></button>
             </form>
@@ -514,7 +445,7 @@
           <div class="copyright">
             <p>Copyright © 2025 Frigidaire Bogotá.,SAS. All Rights Reserved.
               <br>
-              Designed by <a rel="nofollow" href="https://templatemo.com" title="free CSS templates">Dasanjuan</a>
+              Designed by <a rel="nofollow" href="#" title="free CSS templates">Dasanjuan</a>
             </p>
           </div>
         </div>

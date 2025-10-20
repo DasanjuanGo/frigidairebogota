@@ -491,12 +491,11 @@
       }
     });
   </script>
-  <!-- Botón de WhatsApp -->
-  <a href=https://api.whatsapp.com/send?phone=+573228743703&text=¡Hola!%20👋%20Quisiera%20recibir%20más%20información%20sobre%20los%20servicios%20técnicos%20de%20Frigidaire%20en%20Bogotá.%20Gracias%20por%20su%20atención.%20🔧
-
-      class="whatsapp-btn" target="_blank" title="Contáctanos por WhatsApp">
-      <img src="assets/images/whatsapp.png" alt="WhatsApp" />
-  </a>
+        <!-- Botón de WhatsApp -->
+        <a href="https://api.whatsapp.com/send?phone=+573232238953&text=¡Hola%20😊!%20Somos%20ServicioFrigidaire%20|%20Servicio%20Técnico%20Especializado%20👨‍🔧🔧%20¿Tienes%20problemas%20con%20tus%20electrodomésticos?%20¡Estamos%20aquí%20para%20ayudarte!%20😊🔧"
+            class="whatsapp-btn" target="_blank" title="Contáctanos por WhatsApp">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
+        </a>
 
 <script>
 (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="vsWRrlr6P3pC1mon28UJo";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();

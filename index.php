@@ -50,11 +50,13 @@
     <div id="inicio" class="container">
       <div class="row">
         <div class="col-12">
+          <h6>SOPORTE EN LÍNEA <em><a style ="color:#ee415d" href="tel: +57 3228743703">+57 3228743703</a></em></h6>
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="./" class="logo">
               <img src="assets/images/logo.png" style="height: 50px;">
             </a>
+            
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
@@ -222,6 +224,8 @@
 
 
 <!-- *****MARCAS ***** -->
+
+
   <div id="about" class="about-us section">
     <div class="container">
       <div class="row">
@@ -388,10 +392,15 @@
     </div>
   </div>
 
+
+
+
   <div class="footer-dec" style="margin-top: -5%;">
     <img src="assets/images/footer-dec.png" alt="">
   </div>
-<!-- ***** REDES SOSCIALES ***** -->
+
+
+  <!-- ***** REDES SOSCIALES ***** -->
   <footer>
     <div class="container" id="contactar">
       <div class="row">
@@ -482,9 +491,16 @@
       }
     });
   </script>
-  <script>
-    (function () { if (!window.chatbase || window.chatbase("getState") !== "initialized") { window.chatbase = (...arguments) => { if (!window.chatbase.q) { window.chatbase.q = [] } window.chatbase.q.push(arguments) }; window.chatbase = new Proxy(window.chatbase, { get(target, prop) { if (prop === "q") { return target.q } return (...args) => target(prop, ...args) } }) } const onLoad = function () { const script = document.createElement("script"); script.src = "https://www.chatbase.co/embed.min.js"; script.id = "d0fXML1PMwwNAugMhl2zW"; script.domain = "www.chatbase.co"; document.body.appendChild(script) }; if (document.readyState === "complete") { onLoad() } else { window.addEventListener("load", onLoad) } })();
-  </script>
+  <!-- Botón de WhatsApp -->
+  <a href=https://api.whatsapp.com/send?phone=+573228743703&text=¡Hola!%20👋%20Quisiera%20recibir%20más%20información%20sobre%20los%20servicios%20técnicos%20de%20Frigidaire%20en%20Bogotá.%20Gracias%20por%20su%20atención.%20🔧
+
+      class="whatsapp-btn" target="_blank" title="Contáctanos por WhatsApp">
+      <img src="assets/images/whatsapp.png" alt="WhatsApp" />
+  </a>
+
+<script>
+(function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="vsWRrlr6P3pC1mon28UJo";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+</script>
 </body>
 
 </html>

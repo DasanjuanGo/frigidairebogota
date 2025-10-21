@@ -492,7 +492,7 @@
     });
   </script>
         <!-- Botón de WhatsApp -->
-        <a href="https://api.whatsapp.com/send?phone=+573232238953&text=¡Hola%20😊!%20Somos%20ServicioFrigidaire%20|%20Servicio%20Técnico%20Especializado%20👨‍🔧🔧%20¿Tienes%20problemas%20con%20tus%20electrodomésticos?%20¡Estamos%20aquí%20para%20ayudarte!%20😊🔧"
+        <a href="https://api.whatsapp.com/send?phone=+573228743703&text=¡Hola%20%20Somos%20ServicioFrigidaire%20|%20Servicio%20Técnico%20Especializado%20¿Tienes%20problemas%20con%20tus%20electrodomésticos?%20¡Estamos%20aquí%20para%20ayudarte!%20"
             class="whatsapp-btn" target="_blank" title="Contáctanos por WhatsApp">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
         </a>
